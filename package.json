@@ -2,7 +2,7 @@
   "name": "sube-tus-redes",
   "version": "1.0.0",
   "description": "SubeTusRedes - Impulsa tu presencia en redes sociales",
-  "homepage": ".",
+  "homepage": "https://websitecol.github.io/subetusredes",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
