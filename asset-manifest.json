@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/subetusredes/static/css/main.4fa3ac82.css",
+    "main.js": "/subetusredes/static/js/main.60656427.js",
+    "index.html": "/subetusredes/index.html",
+    "main.4fa3ac82.css.map": "/subetusredes/static/css/main.4fa3ac82.css.map",
+    "main.60656427.js.map": "/subetusredes/static/js/main.60656427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa3ac82.css",
+    "static/js/main.60656427.js"
+  ]
+}
